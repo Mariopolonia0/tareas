@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Tarea2"
         mc:Ignorable="d"
         Title="Solucion Polonia" Height="549" Width="726">
-    <Grid Margin="0,8,27,-46" RenderTransformOrigin="0.974,1.053" Background="#FF22B2AB">
+    <Grid Margin="0,8,0,-46" RenderTransformOrigin="0.974,1.053" Background="#FF22B2AB">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="727*"/>
             <ColumnDefinition Width="13*"/>
